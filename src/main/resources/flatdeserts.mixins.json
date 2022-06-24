@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kingcontaria.flatdeserts.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BiomeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
